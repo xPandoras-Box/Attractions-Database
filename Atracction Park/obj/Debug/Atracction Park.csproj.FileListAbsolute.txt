@@ -1,0 +1,9 @@
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\bin\Debug\Atracction Park.exe.config
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\bin\Debug\Atracction Park.exe
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\bin\Debug\Atracction Park.pdb
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\obj\Debug\Atracction Park.csprojAssemblyReference.cache
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\obj\Debug\Atracction_Park.Form1.resources
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\obj\Debug\Atracction_Park.Properties.Resources.resources
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\obj\Debug\Atracction Park.csproj.GenerateResource.cache
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\obj\Debug\Atracction Park.exe
+C:\Users\agbai348\source\repos\Atracction Park\Atracction Park\obj\Debug\Atracction Park.pdb
